@@ -1,0 +1,1 @@
+!python train.py --img 640 --batch 4 --epochs 40 --data {dataset.location}/data.yaml --weights yolov5s.pt --cache
