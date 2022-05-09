@@ -1,5 +1,5 @@
 # Detekcia vizuálneho smogu pri cestách
-| autor: Jan Spirka, skolitel: RNDr. Zuzana Černeková, PhD.
+> riešiteľ: Ján Špirka, školiteľ: RNDr. Zuzana Černeková, PhD.
 
 ## Anotacia
 
@@ -7,9 +7,9 @@ Naštudovať metódy spracovania obrazu, detekcie významných oblastí a neur�
 
 ## Ciel
 
-- Pomocou CNN najst obrazky, na ktorych sa nachadza reklama
-- Detekovat mapu vyznamnych oblasti na najdenych obrazkoch
-- Verifikovat vyznamne oblasti pomocou eyetrackera  
+- Pomocou CNN nájsť obrázky, na ktorých sa nachádza reklama
+- Detekovať mapu významnych oblasti na nájdenych obrázkoch
+- Verifikovať významné oblasti pomocou eyetrackera  
 
 ----------------
 
@@ -25,5 +25,5 @@ Projektovy seminar:
 Predpokladáme, že študent má pripravenú prezentáciu, odprezentuje ju a každý bod má splnený.
 - [X] Jednoduchá ukážka čiastkového riešenia niektorého z cieľov
 - [ ] Detailne naštudovaná problematika a postup riešenia cieľov, znalosť obmedzení naštudovaných metód, počet článkov 5
-- [X] Naštudované tutorialy, nové knižnice potrebné k riešeniu cieľa
+- [ ] Naštudované tutorialy, nové knižnice potrebné k riešeniu cieľa
 - [ ] Riešiteľ má predstavu ako bude konkrétne riešiť ciele práce, vie aké knižnice použije
