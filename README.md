@@ -1,3 +1,13 @@
+## Detekcia vizuálneho smogu pri cestách
+
+# Anotacia
+
+Naštudovať metódy spracovania obrazu, detekcie významných oblastí a neurónové siete. Preskúmať možnosť využitia neurónových sietí na detekciu reklamných plôch popri cestách. Detekovať významnosť reklám na základe saliency a následne verifikovať pomocou eyetrackera. Navrhnutú metódu otestovať a vyhodnotiť výsledky.
+
+----------------
+
+Projektovy seminar:
+
 - [ ] 1. Prezentácia vo svojho pokroku (veľmi konkrétne veci) na tému diplomovej práce
 - [ ] 2. Email od školiteľa s kvalitou pripravenej prezentácie a hodnotením | durikovic@fmph.uniba.sk
 - [ ] 4. Ukážka čiastočne funkčnej implementácie
