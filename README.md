@@ -7,9 +7,9 @@ Naštudovať metódy spracovania obrazu, detekcie významných oblastí a neur�
 
 ## Ciel
 
-- Pomocou CNN nájsť obrázky, na ktorých sa nachádza reklama
-- Detekovať mapu významnych oblasti na nájdenych obrázkoch
-- Verifikovať významné oblasti pomocou eyetrackera  
+- [X] Pomocou CNN nájsť obrázky, na ktorých sa nachádza reklama
+- [ ] Detekovať mapu významnych oblasti na nájdenych obrázkoch
+- [ ] Verifikovať významné oblasti pomocou eyetrackera  
 
 ----------------
 
