@@ -18,9 +18,9 @@ Naštudovať metódy spracovania obrazu, detekcie významných oblastí a neur�
 
 - [ ] 1. [Prezentácia](https://docs.google.com/presentation/d/1lvEpMWDFjZmUAYaV21TAlsABh9B_zuZA/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true) vo forme predobhajoby
 - [ ] 2. Email od školiteľa s hodnotením práce
-- [ ] 3. [Ukážka ucelenej kapitoly](latex-praca.pdf) diplomovej práce minimálne 15 strán v LaTeXu
-- [ ] 4. [Ukážka implementácie](https://docs.google.com/presentation/d/1lvEpMWDFjZmUAYaV21TAlsABh9B_zuZA/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true)  a [vygenerované obrázky]()
-- [ ] 5. Ukážka troch klúčových článkov [[1]](https://docs.google.com/presentation/d/1lvEpMWDFjZmUAYaV21TAlsABh9B_zuZA/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true) [[2]](https://docs.google.com/presentation/d/1lvEpMWDFjZmUAYaV21TAlsABh9B_zuZA/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true) [[3]](https://docs.google.com/presentation/d/1lvEpMWDFjZmUAYaV21TAlsABh9B_zuZA/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true)
+- [ ] 3. [Ukážka diplomovej práce](latex-praca.pdf) (minimálne 15 strán)
+- [ ] 4. [Ukážka implementácie]()  a [výstup]()
+- [ ] 5. Ukážka troch klúčových článkov [[1]]() [[2]]() [[3]]()
 - [ ] 6. [Popis priebežného progresu](https://docs.google.com/spreadsheets/d/1pjiXik5lprVGR-Ra56-ZGfdaWrmiUYjy/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true)
 
 <!-- Predpokladáme, že študent má pripravenú prezentáciu, odprezentuje ju a každý bod má splnený.
