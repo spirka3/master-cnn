@@ -14,7 +14,7 @@ Naštudovať metódy spracovania obrazu, detekcie významných oblastí a neur�
 
 ----------------
 
-Projektový seminár:
+[Projektový seminár](https://dai.fmph.uniba.sk/w/Course:Project_Seminar_2/sk):
 
 - [ ] 1. [Prezentácia](https://docs.google.com/presentation/d/1lvEpMWDFjZmUAYaV21TAlsABh9B_zuZA/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true) vo forme predobhajoby
 - [ ] 2. Email od školiteľa s hodnotením práce
