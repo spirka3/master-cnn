@@ -24,7 +24,7 @@ Projektový seminár:
 - [ ] 6. popis priebežného progresu, linky k na všetky potrebné materiály k bodom 1-5, k zdrojovým kódom, ku knižniciam a spúšťateľný kód
 
 Predpokladáme, že študent má pripravenú prezentáciu, odprezentuje ju a každý bod má splnený.
-- [X] Jednoduchá ukážka čiastkového riešenia niektorého z cieľov
+- [ ] Jednoduchá ukážka čiastkového riešenia niektorého z cieľov
 - [ ] Detailne naštudovaná problematika a postup riešenia cieľov, znalosť obmedzení naštudovaných metód, počet článkov 5
 - [ ] Naštudované tutorialy, nové knižnice potrebné k riešeniu cieľa
 - [ ] Riešiteľ má predstavu ako bude konkrétne riešiť ciele práce, vie aké knižnice použije
