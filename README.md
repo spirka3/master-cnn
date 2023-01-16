@@ -19,7 +19,7 @@ Naštudovať metódy spracovania obrazu, detekcie významných oblastí a neur�
 - [ ] 1. [Prezentácia](https://drive.google.com/file/d/1L1Lh6lciLcwpAFBF6QCTe3kVrVvJBkZM/view?usp=share_link) vo forme predobhajoby
 - [ ] 2. Email od školiteľa s hodnotením práce
 - [ ] 3. [Ukážka diplomovej práce](latex-praca.pdf)
-- [ ] 4. Ukážka implementácie a výstup
+- [ ] 4. [Ukážka implementácie a výstup](https://github.com/spirka3/master-cnn/tree/main/scripts)
 - [ ] 5. Ukážka troch klúčových článkov [[1]]() [[2]]() [[3]]()
 - [ ] 6. [Popis priebežného progresu](https://docs.google.com/spreadsheets/d/1vhx7OOQGiuilJpMftFvvoslCD8Lug5Xs/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true)
 
