@@ -16,12 +16,12 @@ Naštudovať metódy spracovania obrazu, detekcie významných oblastí a neur�
 
 [Projektový seminár](https://dai.fmph.uniba.sk/w/Course:Project_Seminar_2/sk):
 
-- [ ] 1. [Prezentácia](https://docs.google.com/presentation/d/1lvEpMWDFjZmUAYaV21TAlsABh9B_zuZA/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true) vo forme predobhajoby
+- [ ] 1. [Prezentácia](https://drive.google.com/file/d/1L1Lh6lciLcwpAFBF6QCTe3kVrVvJBkZM/view?usp=share_link) vo forme predobhajoby
 - [ ] 2. Email od školiteľa s hodnotením práce
-- [ ] 3. [Ukážka diplomovej práce](latex-praca.pdf) (minimálne 15 strán)
-- [ ] 4. [Ukážka implementácie]()  a [výstup]()
+- [ ] 3. [Ukážka diplomovej práce](latex-praca.pdf)
+- [ ] 4. Ukážka implementácie a výstup
 - [ ] 5. Ukážka troch klúčových článkov [[1]]() [[2]]() [[3]]()
-- [ ] 6. [Popis priebežného progresu](https://docs.google.com/spreadsheets/d/1pjiXik5lprVGR-Ra56-ZGfdaWrmiUYjy/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true)
+- [ ] 6. [Popis priebežného progresu](https://docs.google.com/spreadsheets/d/1vhx7OOQGiuilJpMftFvvoslCD8Lug5Xs/edit?usp=sharing&ouid=104460698476274739763&rtpof=true&sd=true)
 
 <!-- Predpokladáme, že študent má pripravenú prezentáciu, odprezentuje ju a každý bod má splnený.
 - [ ] Jednoduchá ukážka čiastkového riešenia niektorého z cieľov
